@@ -13,6 +13,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "just toasting", Toast.LENGTH_LONG).show();
         Toast.makeText(this, "Adding another toast", Toast.LENGTH_LONG).show();
+        
+        //This is a test commit 
     }
 
     @Override
